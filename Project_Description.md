@@ -1,5 +1,5 @@
 # Technical-Indicators
-# Preface 
+# Preface -
 The project deals with comparing different strategies using multiple indicators as well as using them on standalone basis. 
 The indicators used here are 'MACD' and 'Bollinger Bands'
 In this project, we have generated returns using three different strategies - two strategies using only MACD and B-Bands on standalone basis and one strategy by combining both of them.
